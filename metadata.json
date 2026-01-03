@@ -1,0 +1,7 @@
+{
+  "name": "Noghte Parvaz (Flight Point)",
+  "description": "A comprehensive AI-powered personality assessment tool for teenagers, integrating psychological, social, and Islamic values.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
